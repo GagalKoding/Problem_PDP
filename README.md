@@ -1,2 +1,2 @@
 # PDP
-Soal-soal dan jawaban praktek dasar pemrograman bahasa C semester 1 Universitas Dian Nuswantoro
+The questions and answers of practice basic C programming language  at first semester of University Dian Nuswantoro.
